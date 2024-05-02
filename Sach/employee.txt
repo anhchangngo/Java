@@ -1,0 +1,4 @@
+Employee ID    Employee full name       Employee department      Income         
+1              Do Trong Dat             Cyber Security           175000.0       
+2              Dao Hoang Dung           Data Science             70000.0        
+3              Chu Hoang Viet           Data Science             52500.0        

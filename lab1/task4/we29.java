@@ -1,0 +1,1 @@
+The literal value 2147483648 (2^31) is permitted only as an operand of the unary minus operator, i.e., -2147483648. Enclosing it in parentheses, i.e., -(2147483648), leads to a compile-time error. Similar ideas with the literal value 9223372036854775808L (2^63).

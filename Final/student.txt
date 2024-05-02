@@ -1,0 +1,4 @@
+Course ID      Course Name    Lecturer ID    Lecturer Name  Student ID     Student Name   Average Midterm Score      Average Final Score        Result         
+1              ADS            Vast01         Quang          22BI13075      Dat            20.0                       15.0                       Passed         
+2              OOP            Vast02         Giang          22BI13101      Dung           15.0                       18.0                       Passed         
+3              PY             Vast03         Son            22BI1111       Long           0.0                        0.0                        Retake         

@@ -1,0 +1,6 @@
+Full Name      Date of the birth Math Course Name  Average Marks  
+Do Trong Dat   10/25/2004        [Linear, Calculus]18.5           
+Dao Hoang Dung 10/24/2004        [Linear, Calculus]15.0           
+The very good math student : 
+Do Trong Dat
+Dao Hoang Dung

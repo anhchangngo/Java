@@ -1,0 +1,1 @@
+In Java, ^ does not mean exponentiation (it's the exclusive or function from logic). Use a*a instead. To compute ax, use Math.pow(a, x). Note that Math.pow() returns a double so that you would need an explicit cast if a and b in the above example were integers.

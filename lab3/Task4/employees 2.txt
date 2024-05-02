@@ -1,0 +1,2 @@
+ID             Full name                Department     Income         
+22BI13075      DoTrongDat               CS             70000.00
